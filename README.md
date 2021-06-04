@@ -12,9 +12,10 @@
 - [ ] 实现 “伙伴算法” 对内存分配进行管理
 
 
-One more thign:
+One more thing:\
 Development Platform: Ubuntu 18.04.5 LTS\
 Compiler: x86_64-linux-gnu  [gcc version 10.3.0 (Ubuntu 10.3.0-1ubuntu1~18.04~1)]
+
 
 ```shell
  g++ -c MemManage.cc -o mem -std=c++17
